@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Redithe
+*My site will be perfect for everyone*
